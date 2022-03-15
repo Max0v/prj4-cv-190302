@@ -12,7 +12,10 @@ body {
 }
 
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
-
+h1{
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	color:aliceblue	
+}
 .resume-header {
     background-color: #2c71d3;
 }
